@@ -8,7 +8,13 @@ The content goes from simple tasks (such as coloring cell borders) to the creati
 - **Excel 03** – Counting functions (LARGE, SMALL, COUNT, COUNTA, COUNTBLANK, COUNTIF, COUNTIFS), logical functions (IF, AND, OR, SUMIF), text functions (CONCAT).  
 - **Excel 04** – Nested IF, lookup functions (VLOOKUP), dropdown lists, data segmentation, logical functions (IFERROR, AVERAGEIF, AVERAGEIFS).  
 - **Excel 05** – Lookup functions (SUMIF, MATCH, HLOOKUP, ROW), charts, data validation.  
-- **Excel 06** – Tables, nested IF, pivot tables (with slicers), pivot charts, outlines.  
+- **Excel 06** – Tables, nested IF, pivot tables (with slicers), pivot charts, outlines.
+
+  ### 📎 How to use  
+1. Download or clone this repository.  
+2. Open the desired file with **Microsoft Excel** or **LibreOffice Calc**.  
+3. Explore each exercise to practice different levels of Excel skills.  
+ 
 
 ---
 -------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -21,7 +27,12 @@ Os conteúdos incluem desde tarefas simples (como colorir bordas das células) a
 - **Excel 03** – Funções de contagem (MAIOR, MENOR, CONT, CONT.VALORES, CONTAR.VAZIO, CONT.SE, CONT.SES), funções lógicas (SE, E, OU, SOMASE), funções de texto (CONCAT).  
 - **Excel 04** – Função SE aninhada, funções de procura (PROCV), lista suspensa, segmentação de dados, funções lógicas (SEERRO, MÉDIASE, MÉDIASÉS).  
 - **Excel 05** – Funções de procura (SOMASE, CORRESP, PROCH, LIN), gráficos, validação de dados.  
-- **Excel 06** – Tabelas, SE aninhada, tabela dinâmica (com segmentação de dados), gráfico dinâmico, estrutura de tópicos.  
+- **Excel 06** – Tabelas, SE aninhada, tabela dinâmica (com segmentação de dados), gráfico dinâmico, estrutura de tópicos.
+
+  ### 📎 Como usar  
+1. Baixe ou clone este repositório.  
+2. Abra o arquivo desejado no **Microsoft Excel** ou **LibreOffice Calc**.  
+3. Explore cada exercício para praticar diferentes níveis de habilidades no Excel.  
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 En este repositorio encontrarán hojas de cálculo en Excel con ejercicios que van desde lo **básico hasta lo avanzado**.  
@@ -34,3 +45,8 @@ Los contenidos incluyen desde tareas simples (como colorear los bordes de las ce
 - **Excel 04** – Función SI anidada, funciones de búsqueda (BUSCARV), lista desplegable, segmentación de datos, funciones lógicas (SI.ERROR, PROMEDIO.SI, PROMEDIO.SI.CONJUNTO).  
 - **Excel 05** – Funciones de búsqueda (SUMAR.SI, COINCIDIR, BUSCARH, FILA), gráficos, validación de datos.  
 - **Excel 06** – Tablas, SI anidada, tabla dinámica (con segmentación de datos), gráfico dinámico, esquema.  
+
+ 📎 Cómo usar  
+1. Descarga o clona este repositorio.  
+2. Abre el archivo deseado con **Microsoft Excel** o **LibreOffice Calc**.  
+3. Explora cada ejercicio para practicar distintos niveles de habilidades en Excel.  
